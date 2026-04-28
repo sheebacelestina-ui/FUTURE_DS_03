@@ -109,7 +109,7 @@ The following datasets were created and exported from Python for visualization i
 These datasets form the base for all dashboard visuals.
 
 ## Dashboard Preview 👁️
-![Dashboard](Task3_Dashboard1.png)
+![Dashboard](Task3_dashboard1.png)
 
 ## 📊 Dashboard Overview
 
